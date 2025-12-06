@@ -1,1 +1,7 @@
+id,name,email,country,created_at
+1, Alice  ,alice@gmail.com,india,2024-01-01
+2,Bob,bob@gmail.com,IN,2024-01-05
+3,Charlie,,USA,2024-01-10
+4,David,david@gmail.com,united states,2024-01-15
+4,David,david@gmail.com,United States,2024-01-15
 
